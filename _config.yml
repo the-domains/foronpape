@@ -1,6 +1,6 @@
 name: foronpape
 favicon: null
-layout_spectrum: 0.8563577926252037
+layout_spectrum: 0.67208
 typography_spectrum: 0.05965067376382649
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.6639167778193951
-  lightness: 0.3121245610527694
+  lightness: 0.4375
   saturation: 0.6797581221908331
   rhythmicContrast: 0.9519606630783528
 purpose: []
